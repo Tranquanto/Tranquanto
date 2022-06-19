@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Aston and I make JavaScript games/programs. I don't know any other languages (coding and speaking), but I like things like big numbers, Minecraft, piano, and Geometry Dash.
+My name is Aston and I make JavaScript games/programs. I like things like big numbers, Minecraft, piano, and rhythm games.
 
 My python-developing friend: [Here](https://github.com/GooseterV)
 
