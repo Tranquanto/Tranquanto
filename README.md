@@ -1,12 +1,14 @@
 # Hi!
 
-My name is Aston and I make JavaScript games/programs. I like things like big numbers, Minecraft, piano, and rhythm games.
+My name is Aston and I make JavaScript games/programs on GitHub. I also make music and am a math nerd.
 
 My python-developing friend: [Here](https://github.com/GooseterV)
 
 # Social
 
-Discord: Dragon77mathbye#2408
+Discord: darngon
+
+YT: [@darngon](https://youtube.com/@darngon/)
 
 ## GitHub Stats
 
