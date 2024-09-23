@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Aston and I make JavaScript games/programs on GitHub. I also make music.
+I make music, and sometimes make random web games or programs but definitely not as often as I used to
 
 My python-developing friend: [Here](https://github.com/GooseterV)
 
